@@ -118,17 +118,24 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: 30px;
 }
 
 .author__bio {
   margin: 0;
+  font-size: 22px;
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
   }
 }
+
+.sidebar .author__bio {
+  font-family: $sans-serif;
+  font-size: 22px;
+}
+
 
 .author__urls-wrapper {
   position: relative;

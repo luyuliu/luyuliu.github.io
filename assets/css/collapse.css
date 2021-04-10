@@ -14,3 +14,12 @@
 .container .content {
     display: none;
     padding : 5px;
+}
+
+.author__bio {
+    font-size: 24px;
+}
+
+.author__name {
+    font-size: 30px;
+}

@@ -62,6 +62,7 @@
   font-size: $type-size-6;
 
   & + p {
+    font-size: 16px;
     text-indent: 0;
   }
 }
