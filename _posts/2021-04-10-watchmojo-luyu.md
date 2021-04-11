@@ -1,14 +1,14 @@
 ---
-title: 'Watchmojo by Luyu'
+title: 'Watchmojo Top-3 by Luyu'
 date: 2021-04-10
-permalink: /posts/2021/04/wachmojo-luyu/
+permalink: /posts/2021/04/watchmojo-luyu/
 tags:
   - Hobbies
   - Subculture
   - Non-academic
 ---
 
-I won't do top 10 but I can do a quick top 3 for every subcultures I love. 
+I won't do top 10 but I can do a quick top 3 for some subcultures I love. 
 
 # Top 3 good movies:
 I love a good movie and a cup of hot 2% milk during a peaceful night.
