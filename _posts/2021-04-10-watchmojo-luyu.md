@@ -19,7 +19,7 @@ I love a good movie and a cup of hot 2% milk during a peaceful night.
 # Top 3 bad movies
 These may not be necessarily bad movies, so it can be especially unfair for Rodriguez.
 * Spy kids 3. I just love hating on this movie so much that this is my No.1 favorite bad movie.
-* 2012. It's so entertainingly bad and I watched it a lot. Love the accuracy tho.
+* "2012". It's so entertainingly bad and I watched it a lot. Love the accuracy tho.
 * Snakes on a Plane. What can I say, the title says all.
 
 # Top 3 good pop songs
