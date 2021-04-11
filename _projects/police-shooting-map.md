@@ -1,6 +1,6 @@
 ---
 title: "Police shooting map"
-excerpt: "Visualization of police shooting data organized by Washington post <br/><img src='/images/police_shooting.PNG'>"
+excerpt: "Visualization of police shooting data organized by Washington post. With Rebecca Chapman <br/><img src='/images/police_shooting.PNG'>"
 collection: projects
 link: "https://luyuliu.github.io/visualization-police-shootings/"
 ---

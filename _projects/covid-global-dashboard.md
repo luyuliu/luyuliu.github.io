@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 Dashboard done right by cartographers"
-excerpt: "A web map to track COVID-19 data with d3.js. Many dashboards are still using web-Mercator for global map and choropleth    <br/><img src='/images/covid-dashboard.gif'>"
+excerpt: "A web map to track COVID-19 data with d3.js. Many dashboards are still using web-Mercator for global map and choropleth. With Yue Lin, Armita Kar, and Ningchuan Xiao.  <br/><img src='/images/covid-dashboard.gif'>"
 collection: projects
 link: "https://geog-gis.asc.ohio-state.edu/COVID19-Dashboard/"
 ---
