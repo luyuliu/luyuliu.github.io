@@ -1,6 +1,6 @@
 ---
 title: "CURIO Map Gallery"
-excerpt: "An integrated web-map gallery for heterogeneous geographic information in Columbus, Ohio<br/><img src='/images/curio_mapgallery.png'>"
+excerpt: "An integrated web-map gallery for heterogeneous geographic information in Columbus, Ohio<br/><img src='/images/curio_mapgallery.PNG'>"
 collection: projects
 link: "http://curio.osu.edu/mapgallery/"
 ---
