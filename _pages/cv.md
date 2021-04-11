@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+You can also download a PDF copy of [my full CV](/files/pdfs/luyuliu_cv_2021_04.pdf).
+
 
 Education
 ======
 * B.S. in Environmental Science, Peking University, 2017
-* M.S. in Geography, Ohio State University, 2019
+* M.A. in Geography, Ohio State University, 2019
 * Ph.D in Geography, Ohio State University, 2023 (expected)
 
 
