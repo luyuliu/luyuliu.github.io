@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Environmental Science, Peking University, 2017
 * M.S. in Geography, Ohio State University, 2019
 * Ph.D in Geography, Ohio State University, 2023 (expected)
+
 
 Thesis
 ======
@@ -32,12 +34,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Grants and awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  <ul>
+    {% include grants.html %}</ul>
   
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
