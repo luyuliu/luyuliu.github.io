@@ -14,7 +14,7 @@ I am a Ph.D. student in geographic information science (GIS) at the Department o
 
 
 ## Research Interests
-Empirically, my current research focus on public transit, micro-mobility, accessibility, and the social equity implications of human mobility. There are several questions I am intersted in:
+Empirically, my current research focus on public transit, micro-mobility, accessibility, and the social equity implications of human mobility. There are several questions I am interested in:
 * How can accessible information and communciation technoclogies (ICT) impact different population?
 * What is the role of emerging transportation modes and what are their relationship with traditional ones?
 * How to overcome car dependency in car-oriented cities?
