@@ -15,7 +15,9 @@ You can also download a PDF copy of [my full CV](/files/pdfs/luyuliu_cv_2021_04.
 Education
 ======
 * B.S. in Environmental Science, Peking University, 2017
+* B.S. in Mathematics and Applied Mathematics, Peking University, 2017
 * M.A. in Geography, Ohio State University, 2019
+* GradCert in College and University Teaching, Ohio State University, 2021 (expected)
 * Ph.D in Geography, Ohio State University, 2023 (expected)
 
 
