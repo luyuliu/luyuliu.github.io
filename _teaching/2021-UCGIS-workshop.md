@@ -99,7 +99,7 @@ There are emails I received from some students which really gave me that "awwwww
 
 
 ### Materials
-Most of the materials received very positive responses:
+All materials received very positive responses:
 - How would you rate the labs? **4.22 out of 5**
 - How would you rate the lectures? **4.67 out of 5**
 - How would you rate the organization of the workshop? **4.67 out of 5**
@@ -107,6 +107,11 @@ Most of the materials received very positive responses:
 One participant responded that the labs are less useful. The participant contacted me after the workshop and made some suggestions that I was too fast when doing the lab. 
 
 I totally agree. In fact, I already expected this when I finished designing the workshop; however, since I need to cover a lot of contents so that some backgrounds can be properly addressed before diving into the labs, I need to compress the lab part to assign more time to the lectures. This is a compromise I chose to make, but this can be improved by either extending the length of the workshop or removing some contents. This is especially obvious for participants without much prior knowledge on web-programming, since we can see the participant's response on the self-reported skills. These are very good lesson I learned from the feedback, and will help my future teaching in the long run.
+
+One thing I notice about the pre-workshop materials (Question 4) is that: YouTube tutorial video is super helpful. I recorded a video walkthrough like the ones I did for my GEOG 5210 Labs, and many participants found it very helpful. I actually received many many positive feedbacks about this. It could take a very long time to make a high-quality tutorial walkthrough video; I recorded the same video twice, which took me about a whole afternoon for a one-hour long video. But it is definitely worth. 
+
+I also used GitHub repo as a unified platform to host all the data, tutorial, instruction, and feedback. And I think this is really a good practice because it can literally last forever and a large chunk of the contents being taught in the workshop is on GitHub platform. It really helps me organize everything. And write instruction in Markdown and README.mdis really becoming my new comfort zone now: it's efficient, fast, and traceable; and we can also see that in the poll: the instruction also received most positive feedback.
+
 
 ## Conclusion
 This is the very first time I ever organized a workshop like this, and I believe it is definitely a successful one. It may sound kind of weird for me to say this, but since we have evidence as shown above, we can say with more confidence. It really helps me to build my confidence when teaching, and it is a really precious chance for me to think again about education and my future career, and web-based geovisualization in general.
