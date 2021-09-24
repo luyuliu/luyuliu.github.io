@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, my name is Luyu Liu (he/his/him); the pronunciation is "Loo-yu Lieu" ([listen in Google Translate](https://translate.google.com/?sl=en&tl=ru&text=loo-yu%20leiu&op=translate)). Please feel free to call me Luyu, even if you are my students!
 
-I am a Ph.D. student in geographic information science (GIS) at the Department of Geography, The Ohio State University. I also work as a research associate in Center for Urban and Regional Analysis (CURA) in OSU. I identify myself as a geographer, a GISer, and a mobility data scientist.
+I am a Ph.D. candidate in geographic information science (GIS) at the Department of Geography, The Ohio State University. I also work as a research associate in Center for Urban and Regional Analysis (CURA) in OSU. I identify myself as a geographer, a GISer, and a mobility data scientist.
 
 
 ## Research Interests
