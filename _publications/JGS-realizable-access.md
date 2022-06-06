@@ -13,6 +13,6 @@ The widespread availability of high spatial and temporal resolution public trans
 
 [Read a thread about this paper](https://twitter.com/liuluyu0378/status/1528436761424437249)
 
-[Access the full-text here](rdcu.be/cN04u)
+[Access the full-text here](https://rdcu.be/cN04u)
 
 Recommended citation: Liu, L., Porr, A., & Miller, H. J. (2022). Realizable accessibility: evaluating the reliability of public transit accessibility using high-resolution real-time data. Journal of Geographical Systems, 1-23.
