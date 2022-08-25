@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download a PDF copy of [my full CV](/files/pdfs/luyuliu_cv_2022_04.pdf).
+You can also download a PDF copy of [my full CV](/files/pdfs/Luyu_Liu_CV_20220825.pdf).
 
 
 Education
