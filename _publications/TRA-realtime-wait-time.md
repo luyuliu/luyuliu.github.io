@@ -14,4 +14,6 @@ A claimed benefit of real-time information (RTI) apps in public transit systems 
 
 [Access the paper here](https://www.sciencedirect.com/science/article/abs/pii/S0965856420307229)
 
+A copy of PDF can be accessed [here](/files/pdfs/Smart_App.pdf)
+
 Recommended citation: Liu, L., & Miller, H. J. (2020). Does real-time transit information reduce waiting time? An empirical analysis. Transportation Research Part A: Policy and Practice, 141, 167-179.

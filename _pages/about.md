@@ -20,7 +20,7 @@ Empirically, my current research focus on public transit, micro-mobility, access
 * How to overcome car dependency in car-oriented cities?
 
 ## Methodology
-My primary solutions to mobility issues are GIS and urban computing techniques; I also used statistics and geostatistics. I believe in big data and [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor): my methods are usually simplistic in nature and easy to understand, but manipulating enormous amount of data. I am building a dissertation on how to advance mobility and accessibility research with real-time data, which are naturally of much larger volume and more heterogeneity.
+My primary solutions to mobility issues are GIS and urban computing techniques; I also used statistics and geostatistics. I believe in big data and [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor): my methods are usually simplistic in nature and easy to understand, but manipulating enormous amount of data. I am building a dissertation on how to advance mobility and accessibility research with real-time high-resolution data, which are naturally of much larger volume and more heterogeneity.
 
 I am also a keen supporter for web-based GIS, because it is convenient, accessible, and open-source friendly. I love making accessible or innovative web-maps in [different contexts](/projects).
 

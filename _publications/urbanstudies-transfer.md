@@ -13,4 +13,6 @@ The emergence of urban Big Data creates new opportunities for a deeper understan
 
 [Access the paper here: ](https://journals.sagepub.com/doi/abs/10.1177/0042098020919323)
 
+A copy of PDF can be accessed [here](/files/pdfs/Transfer_Risk.pdf)
+
 Recommended citation: Liu, L., & Miller, H. J. (2020). Measuring risk of missing transfers in public transit systems using high-resolution schedule and real-time bus location data. Urban Studies, 0042098020919323.
