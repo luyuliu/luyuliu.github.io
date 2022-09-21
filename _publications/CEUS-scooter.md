@@ -1,7 +1,7 @@
 ---
 title: "Measuring the impacts of dockless micro-mobility services on public transit accessibility"
 collection: publications
-permalink: /publication/CEUS-scooters
+permalink: /publication/CEUS-scooter
 excerpt: 'Scooters can help you travel better in a public transit system; Well, if you are in the right place... and you have money... and you don't bring too many friends with you...'
 date: 2022-09-01
 venue: 'Computers, Environment and Urban Systems'
