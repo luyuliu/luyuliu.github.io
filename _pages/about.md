@@ -14,15 +14,16 @@ I am a Ph.D. candidate in geographic information science (GIS) at the Department
 
 
 ## Research Interests
-Empirically, my current research focus on public transit, micro-mobility, accessibility, and the social equity implications of human mobility. There are several questions I am interested in:
+My research goals are to promote sustainable and resilient mobility from a social equity perspective. Empirically, my interests are urban transport geography, primarily in public transport and micromobility. The core of my research questions is to mitigate and overcome car dependency in cities and to promote sustainability, accessibility, and social equity. Several issues I am interested in:
 * How can accessible information and communciation technoclogies (ICT) impact different population?
 * What is the role of emerging transportation modes and what are their relationship with traditional ones?
 * How to overcome car dependency in car-oriented cities?
+* 
 
 ## Methodology
 My primary solutions to mobility issues are GIS and urban computing techniques; I also used statistics and geostatistics. I believe in big data and [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor): my methods are usually simplistic in nature and easy to understand, but manipulating enormous amount of data. I am building a dissertation on how to advance mobility and accessibility research with real-time high-resolution data, which are naturally of much larger volume and more heterogeneity.
 
-I am also a keen supporter for web-based GIS, because it is convenient, accessible, and open-source friendly. I love making accessible or innovative web-maps in [different contexts](/projects).
+I am also a keen supporter for web-based GIS due to its convenient, accessible, and open-source friendly nature. I love making accessible or innovative web-maps in [different contexts](/projects).
 
 ## Beyond research
-I love good humor, different subcultures, and Wikipedia. My recent obsessions are [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne), rare vine hunting, and [2010s songs adapted to 1980s style](https://www.youtube.com/watch?v=wLjNTTCVat0). I love making friends and that's the most important, so feel free to email me anytime, always glad to chat!
+I love good humor, different subcultures, and Wikipedia. My recent obsessions are [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne) and [2010s songs adapted to 1980s style](https://www.youtube.com/watch?v=wLjNTTCVat0). I love making friends so feel free to email me anytime, always glad to chat!
