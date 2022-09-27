@@ -14,11 +14,11 @@ You can also download a PDF copy of [my full CV](/resume/Luyu_Liu_CV_20220906.pd
 
 Education
 ======
+* Ph.D in Geography, Ohio State University, 2023 (expected)
+* Gradudate Certificate in College and University Teaching, Ohio State University, 2021
+* M.A. in Geography, Ohio State University, 2019
 * B.S. in Environmental Science, Peking University, 2017
 * B.S. in Mathematics and Applied Mathematics, Peking University, 2017
-* M.A. in Geography, Ohio State University, 2019
-* Gradudate Certificate in College and University Teaching, Ohio State University, 2021
-* Ph.D in Geography, Ohio State University, 2023 (expected)
 
 
 Thesis

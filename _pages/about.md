@@ -26,4 +26,6 @@ My primary solutions to mobility issues are GIS and urban computing techniques; 
 I am also a keen supporter for web-based GIS due to its convenient, accessible, and open-source friendly nature. I love making accessible or innovative web-maps in [different contexts](/projects).
 
 ## Beyond research
-I love good humor, different subcultures, and Wikipedia. My recent obsessions are [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne) and [2010s songs adapted to 1980s style](https://www.youtube.com/watch?v=wLjNTTCVat0). I love making friends so feel free to email me anytime, always glad to chat!
+I love good humor, different subcultures, and Wikipedia. My recent obsessions are [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne) and [2010s songs adapted to 1980s style](https://www.youtube.com/watch?v=wLjNTTCVat0).  
+
+I love making friends so feel free to email me anytime, always glad to chat!
