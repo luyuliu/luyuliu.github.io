@@ -18,7 +18,7 @@ My research goals are to promote sustainable and resilient mobility from a socia
 * How to overcome car dependency in car-oriented cities?
 * How to improve sustainable transportation infrastructure?
 * What are the impacts of new technologies, and what are their relationship with traditional transportation modes?
-* How did and will transportation shape and reshape demographic patterns?
+* How does public health impact transportation? And how does transportation impact public health in return?
 
 ## Methodology
 My primary solutions to mobility issues are GIS and urban computing techniques; I also used statistics and geostatistics. I believe in data-driven approach and [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor); I am building a dissertation on how to advance mobility and accessibility research with real-time high-resolution data, which are naturally of much larger volume and more heterogeneity.
