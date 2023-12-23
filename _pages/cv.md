@@ -9,8 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download a PDF copy of [my full CV](/resume/Luyu_Liu_CV_20231014.pdf).
+You can also download a PDF copy of [my full CV](/resume/Luyu_Liu_CV_20231223.pdf).
 
+Employment
+======
+* Postdoctoral Researcher, University of Florida, 2023
 
 Education
 ======
@@ -21,7 +24,7 @@ Education
 * B.S. in Mathematics and Applied Mathematics, Peking University, 2017
 
 
-Thesis
+Dissertation
 ======
 * Aug 2019 - May 2023:  Accessibility in Motion: Measuring Real-time Accessibility with High-resolution Data
   * Ph.D dissertation
