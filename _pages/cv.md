@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download a PDF copy of [my full CV](/resume/Luyu_Liu_CV_20240203.pdf).
+You can also download a PDF copy of [my full CV](/resume/Luyu_Liu_CV_20240412.pdf).
 
 Employment
 ======
