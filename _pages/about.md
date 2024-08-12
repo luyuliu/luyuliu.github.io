@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Luyu Liu (he/his/him); the pronunciation is "Loo-yu Li-eu" ([listen in Google Translate](https://translate.google.com/?sl=en&tl=ru&text=loo-yu%20leiu&op=translate)). Please feel free to call me Luyu, even if you are my students!
+Hi, my name is Luyu Liu (he/his/him); the pronunciation is "Loo-yu Li-eu" ([listen in Google Translate](https://translate.google.com/?sl=en&tl=ru&text=loo-yu%20leiu&op=translate)). Please call me Luyu, even if you are my students! I lead the EcoTrans Lab at Auburn, and I am actively recruiting PhD and Master's students and Posdocs, please feel free to send me your CV if you are interested!
 
-I am a Postdoc Researcher in Transportation at the Department of Civil and Coastal Engineering at the University of Florida. I received my PhD in Geographic Information Science from the Department of Geography at the Ohio State University. I identify myself as a transportation geographer, a mobility data scientist, and a GISer.
+I am a Assistant Professor at the Department of Geosciences at Auburn University. I received my PhD in Geographic Information Science from the Department of Geography at the Ohio State University. I identify myself as a transportation geographer, a mobility data scientist, and a GISer.
 
 
 ## Research Interests
