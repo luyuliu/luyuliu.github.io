@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download a PDF copy of [my full CV](/resume/Luyu_Liu_CV_20240412.pdf).
+You can also download a PDF copy of [my full CV](/resume/Luyu_Liu_CV_20240812.pdf).
 
 Employment
 ======
+* Assistant Professor, Auburn University, 2024
 * Postdoctoral Researcher, University of Florida, 2023
 
 Education
