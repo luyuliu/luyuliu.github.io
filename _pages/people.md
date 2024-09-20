@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 
-I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please refer to the openings later.
+I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please refer to the openings below.
 
 # Research Assistantship in Public Transit and Urban Computing
 
