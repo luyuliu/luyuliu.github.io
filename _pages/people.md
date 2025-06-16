@@ -15,10 +15,10 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
 
 <table style="border: none; margin-bottom: 40px;">
   <tr>
-    <td width="270" valign="top" style="padding-right: 20px;">
-      <img src="/assets/images/muzzamil.jpg" alt="Muzzamil Khattak" width="250" style="border-radius: 8px;">
+    <td width="270" valign="top" style="padding-right: 20px; border: none;">
+      <img src="/images/muzzamil.jpg" alt="Muzzamil Khattak" width="250" style="border-radius: 8px;">
     </td>
-    <td style="font-size: 1rem; line-height: 1.6;">
+    <td style="font-size: 1rem; line-height: 1.6; border: none;">
       <strong>Ph.D. Student in Transportation Geography at Auburn University</strong><br/>
       Muzzamil is a PhD student at EcoTrans Lab at Auburn University. His research interests include AI application in urban transportation and accessibility analysis.
     </td>
@@ -33,10 +33,10 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
 
 <table style="border: none; margin-bottom: 40px;">
   <tr>
-    <td width="270" valign="top" style="padding-right: 20px;">
-      <img src="/assets/images/xi.jpg" alt="Xi Guan" width="250" style="border-radius: 8px;">
+    <td width="270" valign="top" style="padding-right: 20px; border: none;">
+      <img src="/images/xi.jpg" alt="Xi Guan" width="250" style="border-radius: 8px;">
     </td>
-    <td style="font-size: 1rem; line-height: 1.6;">
+    <td style="font-size: 1rem; line-height: 1.6; border: none;">
       <strong>Master's Student in Urban Planning at Cornell University</strong><br/>
       Xi Guan is a second-year master's student in the MRP program at Cornell University. Her research interests include geospatial analysis, Generative AI with built environment, and street network mobility.
     </td>
@@ -47,10 +47,10 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
 
 <table style="border: none; margin-bottom: 40px;">
   <tr>
-    <td width="270" valign="top" style="padding-right: 20px;">
-      <img src="/assets/images/taiyu.jpg" alt="Taiyu Zhao" width="250" style="border-radius: 8px;">
+    <td width="270" valign="top" style="padding-right: 20px; border: none;">
+      <img src="/images/taiyu.jpg" alt="Taiyu Zhao" width="250" style="border-radius: 8px;">
     </td>
-    <td style="font-size: 1rem; line-height: 1.6;">
+    <td style="font-size: 1rem; line-height: 1.6; border: none;">
       <strong>Master's Student in Holocene Climates at University of Cambridge</strong><br/>
       Taiyu is a master's student in Holocene Climates at University of Cambridge. His interests include heat exposure, remote sensing, and GIS.
     </td>
@@ -61,16 +61,15 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
 
 <table style="border: none; margin-bottom: 40px;">
   <tr>
-    <td width="270" valign="top" style="padding-right: 20px;">
-      <img src="/assets/images/luyu.jpg" alt="Luyu Liu" width="250" style="border-radius: 8px;">
+    <td width="270" valign="top" style="padding-right: 20px; border: none;">
+      <img src="/images/luyu.jpg" alt="Luyu Liu" width="250" style="border-radius: 8px;">
     </td>
-    <td style="font-size: 1rem; line-height: 1.6;">
+    <td style="font-size: 1rem; line-height: 1.6; border: none;">
       <strong>Assistant Professor, Auburn University</strong><br/>
       Luyu Liu is an Assistant Professor at Auburn University. He leads the EcoTrans Lab. His interests include sustainable transportation, AI application in transportation, and GIS.
     </td>
   </tr>
 </table>
-
 
 
 # Research Assistantship in Public Transit and Urban Computing
