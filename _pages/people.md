@@ -14,7 +14,7 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
 <table>
   <tr>
     <td width="250">
-      <img src="/assets/images/muzzamil.jpg" alt="Muzzamil Khattak" width="250">
+      <img src="/images/muzzamil.jpg" alt="Muzzamil Khattak" width="250">
     </td>
     <td>
       <strong>Ph.D. Student in Transportation Geography at Auburn University</strong><br/>
