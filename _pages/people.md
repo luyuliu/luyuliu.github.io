@@ -13,8 +13,8 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
 
 <table>
   <tr>
-    <td width="150">
-      <img src="/assets/images/muzzamil.jpg" alt="Muzzamil Khattak" width="150">
+    <td width="250">
+      <img src="/assets/images/muzzamil.jpg" alt="Muzzamil Khattak" width="250">
     </td>
     <td>
       <strong>Ph.D. Student in Transportation Geography at Auburn University</strong><br/>
@@ -29,8 +29,8 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
 
 <table>
   <tr>
-    <td width="150">
-      <img src="/images/xi.jpg" alt="Xi Guan" width="150">
+    <td width="250">
+      <img src="/images/xi.jpg" alt="Xi Guan" width="250">
     </td>
     <td>
       <strong>Master's Student in Urban Planning at Cornell University</strong><br/>
@@ -43,8 +43,8 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
 
 <table>
   <tr>
-    <td width="150">
-      <img src="/images/taiyu.jpg" alt="Taiyu Zhao" width="150">
+    <td width="250">
+      <img src="/images/taiyu.jpg" alt="Taiyu Zhao" width="250">
     </td>
     <td>
       <strong>Master's Student in Holocene Climates at University of Cambridge</strong><br/>
@@ -58,8 +58,8 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
 
 <table>
   <tr>
-    <td width="150">
-      <img src="/images/luyu.jpg" alt="Luyu Liu" width="150">
+    <td width="250">
+      <img src="/images/luyu.jpg" alt="Luyu Liu" width="250">
     </td>
     <td>
       <strong>Assistant Professor, Auburn University</strong><br/>
