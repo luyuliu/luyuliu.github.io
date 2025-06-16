@@ -57,6 +57,9 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
   </tr>
 </table>
 
+---
+
+# Faculty
 ## Luyu Liu
 
 <table style="border: none; margin-bottom: 40px;">

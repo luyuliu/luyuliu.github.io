@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luyu Liu"
+title                    : "EcoTrans Lab at Auburn"
 title_separator          : "-"
 name                     : &name "Luyu Liu"
 description              : &description "That GIS guy"
