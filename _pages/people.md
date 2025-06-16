@@ -7,6 +7,68 @@ author_profile: true
 
 I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please refer to the openings below.
 
+# Ph.D. Students
+
+## Muhammad Muzzamil H Khattak
+
+<table>
+  <tr>
+    <td width="150">
+      <img src="/assets/images/muzzamil.jpg" alt="Muzzamil Khattak" width="150">
+    </td>
+    <td>
+      <strong>Ph.D. Student in Transportation Geography at Auburn University</strong><br/>
+      Muzzamil is a PhD student at EcoTrans Lab at Auburn University. His research interests include AI application in urban transportation and accessibility analysis.
+    </td>
+  </tr>
+</table>
+
+# Research Associates
+
+## Xi Guan
+
+<table>
+  <tr>
+    <td width="150">
+      <img src="/images/xi.jpg" alt="Xi Guan" width="150">
+    </td>
+    <td>
+      <strong>Master's Student in Urban Planning at Cornell University</strong><br/>
+      Xi Guan is a second-year master's student in the MRP program at Cornell University. Her research interests include geospatial analysis, Generative AI with built environment, and street network mobility.
+    </td>
+  </tr>
+</table>
+
+## Taiyu Zhao
+
+<table>
+  <tr>
+    <td width="150">
+      <img src="/images/taiyu.jpg" alt="Taiyu Zhao" width="150">
+    </td>
+    <td>
+      <strong>Master's Student in Holocene Climates at University of Cambridge</strong><br/>
+      Taiyu is a master's student in Holocene Climates at University of Cambridge. His interests include heat exposure, remote sensing, and GIS.
+    </td>
+  </tr>
+</table>
+
+# Faculty
+## Luyu Liu
+
+<table>
+  <tr>
+    <td width="150">
+      <img src="/images/luyu.jpg" alt="Luyu Liu" width="150">
+    </td>
+    <td>
+      <strong>Assistant Professor, Auburn University</strong><br/>
+      Luyu Liu is an Assistant Professor at Auburn University. He leads the EcoTrans Lab. His interests include sustainable transportation, AI application in transportation, and GIS.
+    </td>
+  </tr>
+</table>
+
+
 # Research Assistantship in Public Transit and Urban Computing
 
 EcoTran Lab at Auburn Geosciences is seeking a highly motivated and creative PhD student to join our research team as a fully funded graduated research assistant starting Summer/Fall 2025. Under the guidance of [Dr. Luyu Liu](https://scholar.google.com/citations?user=r4X5ksYAAAAJ), you will work on cutting-edge projects aimed at improving urban public transportation networks using advanced computational techniques, data analysis, and artificial intelligence. Your research will contribute to the development of sustainable, smart, and resilient urban transportation systems.
