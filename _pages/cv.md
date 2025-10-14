@@ -13,7 +13,7 @@ You can also download a PDF copy of [my full CV](/resume/Luyu_Liu_CV_20251013.pd
 
 Employment
 ======
-* Assistant Professor, Auburn University, 2024
+* Assistant Professor, Auburn University, 2024 - present
 * Postdoctoral Researcher, University of Florida, 2023
 
 Education
