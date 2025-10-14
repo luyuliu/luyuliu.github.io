@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "EcoTrans Lab at Auburn"
 title_separator          : "-"
-name                     : &name "Luyu Liu"
+name                     : &name "EcoTrans Lab at Auburn"
 description              : &description "That GIS guy"
 url                      : https://luyuliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
