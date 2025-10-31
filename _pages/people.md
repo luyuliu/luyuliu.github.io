@@ -85,7 +85,7 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
     </td>
     <td style="font-size: 1rem; line-height: 1.6; border: none;">
       <strong>Professor Emeritus in the Department of Whisker Studies at Feline State University</strong><br/>
-      Born in ~~M~~ichigan and mentored by [Dr. Yuchen Li](https://environment.leeds.ac.uk/staff/12888/dr-yuchen-li), Alipay brings over eight years of distinguished experience in supervising the rigorous academic program of purring, loafing, and strategic mischief. Her leadership style combines warmth with an unwavering commitment to excellence in all things feline.
+      Born in <del>M</del>ichigan and mentored by [Dr. Yuchen Li](https://environment.leeds.ac.uk/staff/12888/dr-yuchen-li), Alipay brings over eight years of distinguished experience in supervising the rigorous academic program of purring, loafing, and strategic mischief. Her leadership style combines warmth with an unwavering commitment to excellence in all things feline.
     </td>
   </tr>
 </table>
