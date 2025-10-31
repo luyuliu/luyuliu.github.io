@@ -19,4 +19,4 @@ My research aims to promote sustainable, resilient, and people-centered mobility
 I am also a keen supporter of web-based GIS for its convenient, accessible, and open-source friendly nature. I love making accessible and innovative web-maps in [different contexts](/projects).
 
 ## Beyond research
-I love good humor, maps, and Wikipedia. I have a tuxedo cat called Alipay. 
+I love good humor, maps, and Wikipedia. I have a tuxedo cat [Alipay](people.md#Faculty##Alipay).

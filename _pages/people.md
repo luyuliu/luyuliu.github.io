@@ -57,9 +57,11 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
   </tr>
 </table>
 
+
 ---
 
 # Faculty
+
 ## Luyu Liu
 
 <table style="border: none; margin-bottom: 40px;">
@@ -74,6 +76,19 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
   </tr>
 </table>
 
+
+## Alipay
+<table style="border: none; margin-bottom: 40px;">
+  <tr>
+    <td width="270" valign="top" style="padding-right: 20px; border: none;">
+      <img src="/images/alipay.jpg" alt="Alipay" width="250" style="border-radius: 8px;">
+    </td>
+    <td style="font-size: 1rem; line-height: 1.6; border: none;">
+      <strong>Professor Emeritus in the Department of Whisker Studies at Feline State University</strong><br/>
+      Born in ~~M~~ichigan and mentored by [Dr. Yuchen Li](https://environment.leeds.ac.uk/staff/12888/dr-yuchen-li), Alipay brings over eight years of distinguished experience in supervising the rigorous academic program of purring, loafing, and strategic mischief. Her leadership style combines warmth with an unwavering commitment to excellence in all things feline.
+    </td>
+  </tr>
+</table>
 
 # Research Assistantship in Public Transit and Urban Computing
 
