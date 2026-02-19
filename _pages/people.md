@@ -27,38 +27,6 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
 
 ---
 
-# Research Associates
-
-## Xi Guan
-
-<table style="border: none; margin-bottom: 40px;">
-  <tr>
-    <td width="270" valign="top" style="padding-right: 20px; border: none;">
-      <img src="/images/xi.jpg" alt="Xi Guan" width="250" style="border-radius: 8px;">
-    </td>
-    <td style="font-size: 1rem; line-height: 1.6; border: none;">
-      <strong>Master's Student in Urban Planning at Cornell University</strong><br/>
-      Xi Guan is a second-year master's student in the MRP program at Cornell University. Her research interests include geospatial analysis, Generative AI with built environment, and street network mobility.
-    </td>
-  </tr>
-</table>
-
-## Taiyu Zhao
-
-<table style="border: none; margin-bottom: 40px;">
-  <tr>
-    <td width="270" valign="top" style="padding-right: 20px; border: none;">
-      <img src="/images/taiyu.jpg" alt="Taiyu Zhao" width="250" style="border-radius: 8px;">
-    </td>
-    <td style="font-size: 1rem; line-height: 1.6; border: none;">
-      <strong>Master's Student in Holocene Climates at University of Cambridge</strong><br/>
-      Taiyu is a master's student in Holocene Climates at University of Cambridge. His interests include heat exposure, remote sensing, and GIS.
-    </td>
-  </tr>
-</table>
-
-
----
 
 # Faculty
 
@@ -89,6 +57,39 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
     </td>
   </tr>
 </table>
+
+
+---
+# Former Members 
+
+## Xi Guan
+
+<table style="border: none; margin-bottom: 40px;">
+  <tr>
+    <td width="270" valign="top" style="padding-right: 20px; border: none;">
+      <img src="/images/xi.jpg" alt="Xi Guan" width="250" style="border-radius: 8px;">
+    </td>
+    <td style="font-size: 1rem; line-height: 1.6; border: none;">
+      <strong>Master's Student in Urban Planning at Cornell University</strong><br/>
+      Xi Guan is a second-year master's student in the MRP program at Cornell University. Her research interests include geospatial analysis, Generative AI with built environment, and street network mobility.
+    </td>
+  </tr>
+</table>
+
+## Taiyu Zhao
+
+<table style="border: none; margin-bottom: 40px;">
+  <tr>
+    <td width="270" valign="top" style="padding-right: 20px; border: none;">
+      <img src="/images/taiyu.jpg" alt="Taiyu Zhao" width="250" style="border-radius: 8px;">
+    </td>
+    <td style="font-size: 1rem; line-height: 1.6; border: none;">
+      <strong>Master's Student in Holocene Climates at University of Cambridge</strong><br/>
+      Taiyu is a master's student in Holocene Climates at University of Cambridge. His interests include heat exposure, remote sensing, and GIS.
+    </td>
+  </tr>
+</table>
+
 
 # Research Assistantship in Public Transit and Urban Computing
 
