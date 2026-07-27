@@ -49,7 +49,7 @@ I am actively recruiting PhD, Master's, and Postdoctoral Researchers. Please ref
 <table style="border: none; margin-bottom: 40px;">
   <tr>
     <td width="270" valign="top" style="padding-right: 20px; border: none;">
-      <img src="/images/alipay.jpg" alt="Alipay" width="250" style="border-radius: 8px;">
+      <img src="/images/alipay.png" alt="Alipay" width="250" style="border-radius: 8px;">
     </td>
     <td style="font-size: 1rem; line-height: 1.6; border: none;">
       <strong>Professor Emeritus in the Department of Whisker Studies at Feline University</strong><br/>
