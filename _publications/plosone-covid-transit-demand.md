@@ -1,7 +1,7 @@
 ---
 title: "The impacts of COVID-19 pandemic on public transit demand in the United States"
 collection: publications
-permalink: /publication/plosone-covid-transit-demand
+permalink: /publication/plosone-covid-transit-demand/
 excerpt: 'COVID quarantine is bad, but having to transit during COVID is worse. We used smartphone data to measure the dynamics and dimensions of COVID-19 related transit demand decline from Feb to May 2020.'
 date: 2020-11-01
 venue: 'PLOS ONE'

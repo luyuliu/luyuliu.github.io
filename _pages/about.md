@@ -1,22 +1,60 @@
 ---
 permalink: /
-title: "Welcome!"
-excerpt: "About me"
+title: "Welcome to EcoTrans Lab"
+excerpt: "Transportation, GeoAI, and Environment"
 author_profile: true
+page_class: home-wide
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, my name is Luyu Liu (he/his/him); the pronunciation is "Loo-yu Li-eu" ([listen in Google Translate](https://translate.google.com/?sl=en&tl=ru&text=loo-yu%20leiu&op=translate)). Please call me Luyu, even if you are my students! I lead the EcoTrans Lab at Auburn, and I am actively recruiting PhD and Master's students, please feel free to send me your CV if you are interested!
+EcoTrans Lab at Auburn University studies how transportation systems, geospatial artificial intelligence, and environmental change shape communities and everyday mobility. We combine GIS, machine learning, and large-scale mobility and transit data to advance accessible, sustainable, resilient, and people-centered transportation.
 
-I am an Assistant Professor at the Department of Geosciences at Auburn University. I received my PhD in Geographic Information Science from the Department of Geography at the Ohio State University. I identify myself as a transportation geographer, a mobility data scientist, and a GISer.
+Our work connects geographic research with open, reproducible methods and real-world applications. The lab brings together students and collaborators working across transportation, GeoAI, and environmental research.
 
 
-## Research Interests
-My research aims to promote sustainable, resilient, and people-centered mobility — primarily through public transportation and emerging transportation — by leveraging innovations in urban transport geography. My primary solutions are machine learning, real-time data analytics, and GIS techniques to solve these empirical questions. I believe in data-driven approach and [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor). 
+<link rel="stylesheet" href="/assets/css/home-pillars.css">
 
-I am also a keen supporter of web-based GIS for its convenient, accessible, and open-source friendly nature. I love making accessible and innovative web-maps in [different contexts](/projects).
+<section class="research-pillars" aria-labelledby="research-pillars-title">
+  <h2 id="research-pillars-title">Research pillars</h2>
+  <div class="research-pillars__grid">
+    <article class="research-pillar research-pillar--transportation">
+      <div class="research-pillar__content">
+        <h3>Transportation</h3>
+        <p>Public transit, accessibility, and mobility systems</p>
+      </div>
+    </article>
+    <article class="research-pillar research-pillar--geoai">
+      <div class="research-pillar__content">
+        <h3>GeoAI</h3>
+        <p>Machine learning, spatial data science, and urban analytics</p>
+      </div>
+    </article>
+    <article class="research-pillar research-pillar--environment">
+      <div class="research-pillar__content">
+        <h3>Environment</h3>
+        <p>Sustainable, resilient, and people-centered communities</p>
+      </div>
+    </article>
+  </div>
+</section>
+
+<section class="personal-atlas" aria-label="Interactive research map">
+  <div class="personal-atlas__grid">
+    <div class="personal-atlas__globe">
+      <canvas id="personal-globe" tabindex="0" aria-label="Interactive 3D globe showing EcoTrans Lab members and research locations. Drag to rotate; use arrow keys for keyboard navigation."></canvas>
+      <small>Drag to rotate<br>Use arrow keys</small>
+    </div>
+    <aside id="personal-globe-panel" class="personal-atlas__panel" aria-live="polite">
+      <p class="personal-atlas__loading">Loading research atlas…</p>
+    </aside>
+  </div>
+</section>
+
+<link rel="stylesheet" href="/assets/css/ecotrans-globe.css">
+<script defer src="/assets/js/topojson-client.min.js"></script>
+<script defer src="/assets/js/ecotrans-globe.js"></script>
 
 ## Beyond research
 I love good humor, maps, and Wikipedia. I have a tuxedo cat [Alipay](people.md#Faculty##Alipay).

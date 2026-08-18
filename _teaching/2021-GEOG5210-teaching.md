@@ -2,7 +2,7 @@
 title: "OSU GEOG 5210: Fundamental GIS"
 collection: teaching
 type: "Teaching"
-permalink: /teaching/2021-GEOG5210-teaching
+permalink: /teaching/2021-GEOG5210-teaching/
 venue: "Ohio State University, Department of Geography"
 date: 2021-05-12
 location: "Columbus, OH"

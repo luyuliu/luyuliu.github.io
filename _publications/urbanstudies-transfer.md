@@ -1,7 +1,7 @@
 ---
 title: "Measuring risk of missing transfers in public transit systems using high-resolution schedule and real-time bus location data"
 collection: publications
-permalink: /publication/urbanstudies-transfer
+permalink: /publication/urbanstudies-transfer/
 excerpt: 'Hate transfer? This paper introduced a systematic method to measure the risk of missing transfers with GTFS real-time data; in other words, how bad you should hate transfers.'
 date: 2020-06-17
 venue: 'Urban Studies'

@@ -1,7 +1,7 @@
 ---
 title: "Does real-time transit information reduce waiting time? An empirical analysis"
 collection: publications
-permalink: /publication/TRA-realtime-wait-time
+permalink: /publication/TRA-realtime-wait-time/
 excerpt: 'Revisiting the benefit of RTI on the wait time of different users and the answer is surprising. No, RTI does not always help people.'
 date: 2020-10-01
 venue: 'Transportation Research Part A: Policy and Practice'

@@ -1,7 +1,7 @@
 ---
 title: "Realizable accessibility: evaluating the reliability of public transit accessibility using high-resolution real-time data"
 collection: publications
-permalink: /publication/JGS-realizable-access
+permalink: /publication/JGS-realizable-access/
 excerpt: 'Accessibility is unrealiable. How to build a realizable and human-centric accessibility measure for transit users that cannot outrun buses and predict the future?'
 date: 2022-5-20
 venue: 'Journal of Geographical Systems'

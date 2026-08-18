@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching %}
+{% assign courses = site.teaching | where: "type", "Teaching" | sort: "date" | reverse %}
+{% for post in courses %}
   {% include archive-single.html %}
 {% endfor %}

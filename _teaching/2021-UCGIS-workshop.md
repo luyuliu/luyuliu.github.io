@@ -2,7 +2,7 @@
 title: "UCGIS Workshop: Full-stack Geo-visualization 101: How to Make Productive Webmaps"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2021-UCGIS-workshop
+permalink: /teaching/2021-UCGIS-workshop/
 venue: "University Consortium for Geographic Information Science"
 date: 2021-06-11
 location: "Virtual"

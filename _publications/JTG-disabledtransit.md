@@ -1,7 +1,7 @@
 ---
 title: "Disparities in public transit accessibility and usage by people with mobility disabilities: An evaluation using high-resolution transit data"
 collection: publications
-permalink: /publication/JTG-disabledtransit
+permalink: /publication/JTG-disabledtransit/
 excerpt: 'Public transit is criminally unfair for people with mobility disability.'
 date: 2023-4-21
 venue: 'Journal of Transport Geography'

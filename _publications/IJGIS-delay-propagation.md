@@ -1,7 +1,7 @@
 ---
 title: "Assessing public transit performance using real-time data: spatiotemporal patterns of bus operation delays in Columbus, Ohio, USA"
 collection: publications
-permalink: /publication/IJGIS-delay-propagation
+permalink: /publication/IJGIS-delay-propagation/
 excerpt: 'Delay is a primary indicator of transit and we used GTFS to measure that. It changed, a lot.'
 date: 2020-02-01
 venue: 'International Journal of Geographical Information Science'

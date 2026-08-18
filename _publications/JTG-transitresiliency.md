@@ -1,7 +1,7 @@
 ---
 title: "Measuring the impacts of disruptions on public transit accessibility and reliability"
 collection: publications
-permalink: /publication/JTG-transitresiliency
+permalink: /publication/JTG-transitresiliency/
 excerpt: 'Football games can disrupt public transit; not just near the stadium, but everywhere all at once.'
 date: 2024-1-1
 venue: 'Journal of Transport Geography'
