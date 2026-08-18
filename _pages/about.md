@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-EcoTrans Lab at Auburn University studies how transportation systems, geospatial artificial intelligence, and environmental change shape communities and everyday mobility. We combine GIS, machine learning, and large-scale mobility and transit data to advance accessible, sustainable, resilient, and people-centered transportation.
+EcoTrans Lab at Auburn University studies how transportation systems, geospatial artificial intelligence, and environmental change shape communities and everyday mobility. We use GIS, machine learning, and large-scale mobility and transit data to advance accessible, sustainable, resilient, and people-centered transportation.
 
-Our work connects geographic research with open, reproducible methods and real-world applications. The lab brings together students and collaborators working across transportation, GeoAI, and environmental research.
+
 
 
 <link rel="stylesheet" href="/assets/css/home-pillars.css">
@@ -22,12 +22,12 @@ Our work connects geographic research with open, reproducible methods and real-w
     <article class="research-pillar research-pillar--transportation">
       <div class="research-pillar__content">
         <h3>Transportation</h3>
-        <p>Public transit, accessibility, and mobility systems</p>
+        <p>Public transit, micromobility, accessibility, and multimodal mobility</p>
       </div>
     </article>
     <article class="research-pillar research-pillar--geoai">
       <div class="research-pillar__content">
-        <h3>GeoAI</h3>
+        <h3>GeoData and GeoAI</h3>
         <p>Machine learning, spatial data science, and urban analytics</p>
       </div>
     </article>
