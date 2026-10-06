@@ -18,9 +18,9 @@ Employment
 
 Education
 ======
-* Ph.D in Geography, Ohio State University, 2023
-* Gradudate Certificate in College and University Teaching, Ohio State University, 2021
-* M.A. in Geography, Ohio State University, 2019
+* Ph.D in Geography, The Ohio State University, 2023
+* Gradudate Certificate in College and University Teaching, The Ohio State University, 2021
+* M.A. in Geography, The Ohio State University, 2019
 * B.S. in Environmental Science, Peking University, 2017
 * B.S. in Mathematics and Applied Mathematics, Peking University, 2017
 
